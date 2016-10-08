@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:gravity="right">
+
+<LinearLayout
+    android:paddingTop="50dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Street 1"
+        android:layout_marginLeft="10dp" />
+    <EditText android:imeOptions="actionDone"
+        android:singleLine="true"
+        android:inputType="text"
+        android:layout_width="237dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText_street1" />
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Zip"
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_Zip"
+             />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City"
+
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_City"
+             />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="State"
+
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_State"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Building"
+
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:inputType="text"
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_Building"
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Floor"
+
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_Floor"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Room#"
+
+            android:layout_marginLeft="10dp" />
+        <EditText
+            android:imeOptions="actionDone"
+            android:singleLine="true"
+            android:layout_width="237dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText_Room"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Switch
+            android:layout_width="155dp"
+            android:layout_height="62dp"
+
+            android:text="Enable Tagging"
+            android:id="@+id/switch1"
+            android:elegantTextHeight="false"
+            android:layout_weight="0.17"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Tag"
+            android:id="@+id/tagging_button"
+            android:layout_gravity="right"
+            android:layout_weight="0.10"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp" />
+
+
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,9209 @@
+[
+  {
+    "time": 1458428029,
+    "gpsSpeed": 0.66,
+    "gpsCourse": 49.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.925387,
+    "altPressure": 101.2504
+  },
+  {
+    "time": 1458428029,
+    "gpsSpeed": 0.66,
+    "gpsCourse": 49.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.925387,
+    "altPressure": 101.2504
+  },
+  {
+    "time": 1458428030,
+    "gpsSpeed": 0.66,
+    "gpsCourse": 48.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.925387,
+    "altPressure": 101.2504
+  },
+  {
+    "time": 1458428030,
+    "gpsSpeed": 0.66,
+    "gpsCourse": 48.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428031,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 39.0234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428031,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 39.0234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428032,
+    "gpsSpeed": 0.75,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.881623,
+    "altPressure": 101.2499
+  },
+  {
+    "time": 1458428032,
+    "gpsSpeed": 0.75,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.881623,
+    "altPressure": 101.2499
+  },
+  {
+    "time": 1458428033,
+    "gpsSpeed": 0.75,
+    "gpsCourse": 38.3203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.881623,
+    "altPressure": 101.2499
+  },
+  {
+    "time": 1458428033,
+    "gpsSpeed": 0.75,
+    "gpsCourse": 38.3203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428034,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428034,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.921363,
+    "altPressure": 101.2503
+  },
+  {
+    "time": 1458428035,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 358.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.085352,
+    "altPressure": 101.2523
+  },
+  {
+    "time": 1458428035,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 358.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.085352,
+    "altPressure": 101.2523
+  },
+  {
+    "time": 1458428036,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 346.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.142697,
+    "altPressure": 101.253
+  },
+  {
+    "time": 1458428036,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 346.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.142697,
+    "altPressure": 101.253
+  },
+  {
+    "time": 1458428037,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 345.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.142697,
+    "altPressure": 101.253
+  },
+  {
+    "time": 1458428037,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 345.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.130624,
+    "altPressure": 101.2528
+  },
+  {
+    "time": 1458428038,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 342.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.130624,
+    "altPressure": 101.2528
+  },
+  {
+    "time": 1458428038,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 342.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.130624,
+    "altPressure": 101.2528
+  },
+  {
+    "time": 1458428039,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 340.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.172375,
+    "altPressure": 101.2533
+  },
+  {
+    "time": 1458428039,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 340.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.172375,
+    "altPressure": 101.2533
+  },
+  {
+    "time": 1458428040,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 344.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.289076,
+    "altPressure": 101.2547
+  },
+  {
+    "time": 1458428040,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 344.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.289076,
+    "altPressure": 101.2547
+  },
+  {
+    "time": 1458428041,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 348.75,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.289076,
+    "altPressure": 101.2547
+  },
+  {
+    "time": 1458428041,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 348.75,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428042,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 340.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428042,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 340.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428043,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 335.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428043,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 335.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428044,
+    "gpsSpeed": 1.35,
+    "gpsCourse": 333.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.504366,
+    "altPressure": 101.2573
+  },
+  {
+    "time": 1458428044,
+    "gpsSpeed": 1.35,
+    "gpsCourse": 333.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.509396,
+    "altPressure": 101.2574
+  },
+  {
+    "time": 1458428045,
+    "gpsSpeed": 1.95,
+    "gpsCourse": 345.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.509396,
+    "altPressure": 101.2574
+  },
+  {
+    "time": 1458428045,
+    "gpsSpeed": 1.95,
+    "gpsCourse": 345.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.509396,
+    "altPressure": 101.2574
+  },
+  {
+    "time": 1458428046,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 349.8046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.509396,
+    "altPressure": 101.2574
+  },
+  {
+    "time": 1458428046,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 349.8046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.509396,
+    "altPressure": 101.2574
+  },
+  {
+    "time": 1458428047,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 342.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.693496,
+    "altPressure": 101.2596
+  },
+  {
+    "time": 1458428047,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 342.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.693496,
+    "altPressure": 101.2596
+  },
+  {
+    "time": 1458428048,
+    "gpsSpeed": 1.59,
+    "gpsCourse": 329.0625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.693496,
+    "altPressure": 101.2596
+  },
+  {
+    "time": 1458428048,
+    "gpsSpeed": 1.59,
+    "gpsCourse": 329.0625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.892682,
+    "altPressure": 101.262
+  },
+  {
+    "time": 1458428049,
+    "gpsSpeed": 1.59,
+    "gpsCourse": 328.359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.892682,
+    "altPressure": 101.262
+  },
+  {
+    "time": 1458428049,
+    "gpsSpeed": 1.59,
+    "gpsCourse": 328.359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.960585,
+    "altPressure": 101.2628
+  },
+  {
+    "time": 1458428050,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 352.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.960585,
+    "altPressure": 101.2628
+  },
+  {
+    "time": 1458428050,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 352.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.960585,
+    "altPressure": 101.2628
+  },
+  {
+    "time": 1458428051,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.014907,
+    "altPressure": 101.2635
+  },
+  {
+    "time": 1458428051,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.014907,
+    "altPressure": 101.2635
+  },
+  {
+    "time": 1458428052,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 18.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.014907,
+    "altPressure": 101.2635
+  },
+  {
+    "time": 1458428052,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 18.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.308143,
+    "altPressure": 101.267
+  },
+  {
+    "time": 1458428053,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 22.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.308143,
+    "altPressure": 101.267
+  },
+  {
+    "time": 1458428053,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 22.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.308143,
+    "altPressure": 101.267
+  },
+  {
+    "time": 1458428054,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 24.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.344356,
+    "altPressure": 101.2674
+  },
+  {
+    "time": 1458428054,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 24.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.344356,
+    "altPressure": 101.2674
+  },
+  {
+    "time": 1458428055,
+    "gpsSpeed": 1.46,
+    "gpsCourse": 30.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.354918,
+    "altPressure": 101.2675
+  },
+  {
+    "time": 1458428055,
+    "gpsSpeed": 1.46,
+    "gpsCourse": 30.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.354918,
+    "altPressure": 101.2675
+  },
+  {
+    "time": 1458428056,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.354918,
+    "altPressure": 101.2675
+  },
+  {
+    "time": 1458428056,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.401191,
+    "altPressure": 101.2681
+  },
+  {
+    "time": 1458428057,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 34.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.401191,
+    "altPressure": 101.2681
+  },
+  {
+    "time": 1458428057,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 34.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.401191,
+    "altPressure": 101.2681
+  },
+  {
+    "time": 1458428058,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.504299,
+    "altPressure": 101.2693
+  },
+  {
+    "time": 1458428058,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.504299,
+    "altPressure": 101.2693
+  },
+  {
+    "time": 1458428059,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 44.6484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.631044,
+    "altPressure": 101.2709
+  },
+  {
+    "time": 1458428059,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 44.6484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.631044,
+    "altPressure": 101.2709
+  },
+  {
+    "time": 1458428060,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 47.4609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.631044,
+    "altPressure": 101.2709
+  },
+  {
+    "time": 1458428060,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 47.4609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.760303,
+    "altPressure": 101.2724
+  },
+  {
+    "time": 1458428061,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 42.1875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.760303,
+    "altPressure": 101.2724
+  },
+  {
+    "time": 1458428061,
+    "gpsSpeed": 1.5,
+    "gpsCourse": 42.1875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.760303,
+    "altPressure": 101.2724
+  },
+  {
+    "time": 1458428062,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 32.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.844797,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428062,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 32.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.844797,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428063,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 26.71875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.844797,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428063,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 26.71875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.130968,
+    "altPressure": 101.2769
+  },
+  {
+    "time": 1458428064,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.130968,
+    "altPressure": 101.2769
+  },
+  {
+    "time": 1458428064,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.258712,
+    "altPressure": 101.2784
+  },
+  {
+    "time": 1458428065,
+    "gpsSpeed": 1.49,
+    "gpsCourse": 33.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.258712,
+    "altPressure": 101.2784
+  },
+  {
+    "time": 1458428065,
+    "gpsSpeed": 1.49,
+    "gpsCourse": 33.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.258712,
+    "altPressure": 101.2784
+  },
+  {
+    "time": 1458428066,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 35.5078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.269273,
+    "altPressure": 101.2785
+  },
+  {
+    "time": 1458428066,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 35.5078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.269273,
+    "altPressure": 101.2785
+  },
+  {
+    "time": 1458428067,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.269273,
+    "altPressure": 101.2785
+  },
+  {
+    "time": 1458428067,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.345214,
+    "altPressure": 101.2794
+  },
+  {
+    "time": 1458428068,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 44.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.345214,
+    "altPressure": 101.2794
+  },
+  {
+    "time": 1458428068,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 44.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.345214,
+    "altPressure": 101.2794
+  },
+  {
+    "time": 1458428069,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 52.03125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.345214,
+    "altPressure": 101.2794
+  },
+  {
+    "time": 1458428069,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 52.03125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.345214,
+    "altPressure": 101.2794
+  },
+  {
+    "time": 1458428070,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 57.65625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.392991,
+    "altPressure": 101.28
+  },
+  {
+    "time": 1458428070,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 57.65625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.392991,
+    "altPressure": 101.28
+  },
+  {
+    "time": 1458428071,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.392991,
+    "altPressure": 101.28
+  },
+  {
+    "time": 1458428071,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.547386,
+    "altPressure": 101.2819
+  },
+  {
+    "time": 1458428072,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.547386,
+    "altPressure": 101.2819
+  },
+  {
+    "time": 1458428072,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.595665,
+    "altPressure": 101.2824
+  },
+  {
+    "time": 1458428073,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 49.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.595665,
+    "altPressure": 101.2824
+  },
+  {
+    "time": 1458428073,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 49.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.595665,
+    "altPressure": 101.2824
+  },
+  {
+    "time": 1458428074,
+    "gpsSpeed": 0.82,
+    "gpsCourse": 70.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.677639,
+    "altPressure": 101.2834
+  },
+  {
+    "time": 1458428074,
+    "gpsSpeed": 0.82,
+    "gpsCourse": 70.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.677639,
+    "altPressure": 101.2834
+  },
+  {
+    "time": 1458428075,
+    "gpsSpeed": 0.82,
+    "gpsCourse": 77.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.677639,
+    "altPressure": 101.2834
+  },
+  {
+    "time": 1458428075,
+    "gpsSpeed": 0.82,
+    "gpsCourse": 77.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.839572,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428076,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 60.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.839572,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428076,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 60.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.839572,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428077,
+    "gpsSpeed": 1.34,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.847116,
+    "altPressure": 101.2855
+  },
+  {
+    "time": 1458428077,
+    "gpsSpeed": 1.34,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.847116,
+    "altPressure": 101.2855
+  },
+  {
+    "time": 1458428078,
+    "gpsSpeed": 1.34,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.86522,
+    "altPressure": 101.2857
+  },
+  {
+    "time": 1458428078,
+    "gpsSpeed": 1.34,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.86522,
+    "altPressure": 101.2857
+  },
+  {
+    "time": 1458428079,
+    "gpsSpeed": 1.42,
+    "gpsCourse": 30.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.86522,
+    "altPressure": 101.2857
+  },
+  {
+    "time": 1458428079,
+    "gpsSpeed": 1.42,
+    "gpsCourse": 30.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.969318,
+    "altPressure": 101.2869
+  },
+  {
+    "time": 1458428080,
+    "gpsSpeed": 1.38,
+    "gpsCourse": 37.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.969318,
+    "altPressure": 101.2869
+  },
+  {
+    "time": 1458428080,
+    "gpsSpeed": 1.38,
+    "gpsCourse": 37.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.969318,
+    "altPressure": 101.2869
+  },
+  {
+    "time": 1458428081,
+    "gpsSpeed": 1.38,
+    "gpsCourse": 43.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.043243,
+    "altPressure": 101.2878
+  },
+  {
+    "time": 1458428081,
+    "gpsSpeed": 1.38,
+    "gpsCourse": 43.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.043243,
+    "altPressure": 101.2878
+  },
+  {
+    "time": 1458428082,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.167957,
+    "altPressure": 101.2893
+  },
+  {
+    "time": 1458428082,
+    "gpsSpeed": 1.33,
+    "gpsCourse": 45,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.167957,
+    "altPressure": 101.2893
+  },
+  {
+    "time": 1458428083,
+    "gpsSpeed": 0.8,
+    "gpsCourse": 53.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.167957,
+    "altPressure": 101.2893
+  },
+  {
+    "time": 1458428083,
+    "gpsSpeed": 0.8,
+    "gpsCourse": 53.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.176507,
+    "altPressure": 101.2894
+  },
+  {
+    "time": 1458428084,
+    "gpsSpeed": 0.8,
+    "gpsCourse": 46.7578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.176507,
+    "altPressure": 101.2894
+  },
+  {
+    "time": 1458428084,
+    "gpsSpeed": 0.8,
+    "gpsCourse": 46.7578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.176507,
+    "altPressure": 101.2894
+  },
+  {
+    "time": 1458428085,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 33.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.428949,
+    "altPressure": 101.2924
+  },
+  {
+    "time": 1458428085,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 33.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.428949,
+    "altPressure": 101.2924
+  },
+  {
+    "time": 1458428086,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.428949,
+    "altPressure": 101.2924
+  },
+  {
+    "time": 1458428086,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 26.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.493316,
+    "altPressure": 101.2932
+  },
+  {
+    "time": 1458428087,
+    "gpsSpeed": 1.22,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.493316,
+    "altPressure": 101.2932
+  },
+  {
+    "time": 1458428087,
+    "gpsSpeed": 1.22,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.522985,
+    "altPressure": 101.2936
+  },
+  {
+    "time": 1458428088,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 34.8046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.522985,
+    "altPressure": 101.2936
+  },
+  {
+    "time": 1458428088,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 34.8046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.522985,
+    "altPressure": 101.2936
+  },
+  {
+    "time": 1458428089,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 33.75,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.562711,
+    "altPressure": 101.2941
+  },
+  {
+    "time": 1458428089,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 33.75,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.562711,
+    "altPressure": 101.2941
+  },
+  {
+    "time": 1458428090,
+    "gpsSpeed": 1.35,
+    "gpsCourse": 30.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.562711,
+    "altPressure": 101.2941
+  },
+  {
+    "time": 1458428090,
+    "gpsSpeed": 1.35,
+    "gpsCourse": 30.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428091,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 27.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428091,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 27.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428092,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 27.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428092,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 27.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428093,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 30.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428093,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 30.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428094,
+    "gpsSpeed": 0.31,
+    "gpsCourse": 30.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.640151,
+    "altPressure": 101.295
+  },
+  {
+    "time": 1458428094,
+    "gpsSpeed": 0.31,
+    "gpsCourse": 30.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.72262,
+    "altPressure": 101.296
+  },
+  {
+    "time": 1458428095,
+    "gpsSpeed": 0.68,
+    "gpsCourse": 24.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.72262,
+    "altPressure": 101.296
+  },
+  {
+    "time": 1458428095,
+    "gpsSpeed": 0.68,
+    "gpsCourse": 24.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.72262,
+    "altPressure": 101.296
+  },
+  {
+    "time": 1458428096,
+    "gpsSpeed": 0.68,
+    "gpsCourse": 17.9296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.919233,
+    "altPressure": 101.2983
+  },
+  {
+    "time": 1458428096,
+    "gpsSpeed": 0.68,
+    "gpsCourse": 17.9296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.919233,
+    "altPressure": 101.2983
+  },
+  {
+    "time": 1458428097,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 24.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.972032,
+    "altPressure": 101.299
+  },
+  {
+    "time": 1458428097,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 24.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.972032,
+    "altPressure": 101.299
+  },
+  {
+    "time": 1458428098,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 33.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.972032,
+    "altPressure": 101.299
+  },
+  {
+    "time": 1458428098,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 33.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428099,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 38.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428099,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 38.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428100,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 38.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428100,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 38.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428101,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 41.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.148025,
+    "altPressure": 101.3011
+  },
+  {
+    "time": 1458428101,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 41.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.148025,
+    "altPressure": 101.3011
+  },
+  {
+    "time": 1458428102,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.148025,
+    "altPressure": 101.3011
+  },
+  {
+    "time": 1458428102,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 37.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.249596,
+    "altPressure": 101.3023
+  },
+  {
+    "time": 1458428103,
+    "gpsSpeed": 1.75,
+    "gpsCourse": 32.6953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.249596,
+    "altPressure": 101.3023
+  },
+  {
+    "time": 1458428103,
+    "gpsSpeed": 1.75,
+    "gpsCourse": 32.6953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.249596,
+    "altPressure": 101.3023
+  },
+  {
+    "time": 1458428104,
+    "gpsSpeed": 1.75,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.331054,
+    "altPressure": 101.3033
+  },
+  {
+    "time": 1458428104,
+    "gpsSpeed": 1.75,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.331054,
+    "altPressure": 101.3033
+  },
+  {
+    "time": 1458428105,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.331054,
+    "altPressure": 101.3033
+  },
+  {
+    "time": 1458428105,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 31.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.455753,
+    "altPressure": 101.3048
+  },
+  {
+    "time": 1458428106,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 40.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.455753,
+    "altPressure": 101.3048
+  },
+  {
+    "time": 1458428106,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 40.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.683527,
+    "altPressure": 101.3075
+  },
+  {
+    "time": 1458428107,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 28.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.683527,
+    "altPressure": 101.3075
+  },
+  {
+    "time": 1458428107,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 28.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.683527,
+    "altPressure": 101.3075
+  },
+  {
+    "time": 1458428107,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 28.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.810234,
+    "altPressure": 101.309
+  },
+  {
+    "time": 1458428108,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.810234,
+    "altPressure": 101.309
+  },
+  {
+    "time": 1458428108,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 15.46875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.810234,
+    "altPressure": 101.309
+  },
+  {
+    "time": 1458428109,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 3.515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.840402,
+    "altPressure": 101.3094
+  },
+  {
+    "time": 1458428110,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 356.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.840402,
+    "altPressure": 101.3094
+  },
+  {
+    "time": 1458428110,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 356.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.898726,
+    "altPressure": 101.3101
+  },
+  {
+    "time": 1458428110,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 356.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.898726,
+    "altPressure": 101.3101
+  },
+  {
+    "time": 1458428111,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 5.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.898726,
+    "altPressure": 101.3101
+  },
+  {
+    "time": 1458428111,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 5.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.909788,
+    "altPressure": 101.3102
+  },
+  {
+    "time": 1458428112,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 23.203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.909788,
+    "altPressure": 101.3102
+  },
+  {
+    "time": 1458428112,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 23.203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.909788,
+    "altPressure": 101.3102
+  },
+  {
+    "time": 1458428113,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 37.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.996771,
+    "altPressure": 101.3113
+  },
+  {
+    "time": 1458428113,
+    "gpsSpeed": 1.41,
+    "gpsCourse": 37.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.996771,
+    "altPressure": 101.3113
+  },
+  {
+    "time": 1458428114,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 37.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04755,
+    "altPressure": 101.3119
+  },
+  {
+    "time": 1458428114,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 37.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04755,
+    "altPressure": 101.3119
+  },
+  {
+    "time": 1458428115,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 40.078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04755,
+    "altPressure": 101.3119
+  },
+  {
+    "time": 1458428115,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 40.078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.05308,
+    "altPressure": 101.312
+  },
+  {
+    "time": 1458428116,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 49.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.05308,
+    "altPressure": 101.312
+  },
+  {
+    "time": 1458428116,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 49.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.05308,
+    "altPressure": 101.312
+  },
+  {
+    "time": 1458428117,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 43.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.13705,
+    "altPressure": 101.313
+  },
+  {
+    "time": 1458428117,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 43.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.13705,
+    "altPressure": 101.313
+  },
+  {
+    "time": 1458428118,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 36.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.13705,
+    "altPressure": 101.313
+  },
+  {
+    "time": 1458428118,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 36.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.18029,
+    "altPressure": 101.3135
+  },
+  {
+    "time": 1458428119,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 20.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.18029,
+    "altPressure": 101.3135
+  },
+  {
+    "time": 1458428119,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 20.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.309,
+    "altPressure": 101.315
+  },
+  {
+    "time": 1458428120,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 11.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.309,
+    "altPressure": 101.315
+  },
+  {
+    "time": 1458428120,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 11.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.309,
+    "altPressure": 101.315
+  },
+  {
+    "time": 1458428121,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 8.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.33766,
+    "altPressure": 101.3154
+  },
+  {
+    "time": 1458428121,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 8.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.33766,
+    "altPressure": 101.3154
+  },
+  {
+    "time": 1458428122,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 12.65625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.33766,
+    "altPressure": 101.3154
+  },
+  {
+    "time": 1458428122,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 12.65625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.43922,
+    "altPressure": 101.3166
+  },
+  {
+    "time": 1458428123,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 13.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.43922,
+    "altPressure": 101.3166
+  },
+  {
+    "time": 1458428123,
+    "gpsSpeed": 1.18,
+    "gpsCourse": 13.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.49955,
+    "altPressure": 101.3173
+  },
+  {
+    "time": 1458428124,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 14.765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.49955,
+    "altPressure": 101.3173
+  },
+  {
+    "time": 1458428124,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 14.765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.49955,
+    "altPressure": 101.3173
+  },
+  {
+    "time": 1458428125,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 31.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62072,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428125,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 31.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62072,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428126,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 44.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62072,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428126,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 44.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62122,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428127,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 49.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62122,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428127,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 49.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.62122,
+    "altPressure": 101.3188
+  },
+  {
+    "time": 1458428128,
+    "gpsSpeed": 0.99,
+    "gpsCourse": 40.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.84645,
+    "altPressure": 101.3215
+  },
+  {
+    "time": 1458428128,
+    "gpsSpeed": 0.99,
+    "gpsCourse": 40.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.84645,
+    "altPressure": 101.3215
+  },
+  {
+    "time": 1458428129,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 32.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.88265,
+    "altPressure": 101.3219
+  },
+  {
+    "time": 1458428129,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 32.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.88265,
+    "altPressure": 101.3219
+  },
+  {
+    "time": 1458428130,
+    "gpsSpeed": 0.9,
+    "gpsCourse": 31.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.88265,
+    "altPressure": 101.3219
+  },
+  {
+    "time": 1458428130,
+    "gpsSpeed": 0.9,
+    "gpsCourse": 31.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.03951,
+    "altPressure": 101.3238
+  },
+  {
+    "time": 1458428131,
+    "gpsSpeed": 0.65,
+    "gpsCourse": 41.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.03951,
+    "altPressure": 101.3238
+  },
+  {
+    "time": 1458428131,
+    "gpsSpeed": 0.65,
+    "gpsCourse": 41.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.03951,
+    "altPressure": 101.3238
+  },
+  {
+    "time": 1458428132,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.03951,
+    "altPressure": 101.3238
+  },
+  {
+    "time": 1458428132,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 36.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.03951,
+    "altPressure": 101.3238
+  },
+  {
+    "time": 1458428133,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 34.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428133,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 34.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428134,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 28.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428134,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 28.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428135,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 29.8828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428135,
+    "gpsSpeed": 1.08,
+    "gpsCourse": 29.8828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.97717,
+    "altPressure": 101.3231
+  },
+  {
+    "time": 1458428136,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 34.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.22653,
+    "altPressure": 101.3261
+  },
+  {
+    "time": 1458428136,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 34.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.22653,
+    "altPressure": 101.3261
+  },
+  {
+    "time": 1458428137,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 36.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.22653,
+    "altPressure": 101.3261
+  },
+  {
+    "time": 1458428137,
+    "gpsSpeed": 1.05,
+    "gpsCourse": 36.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.44571,
+    "altPressure": 101.3287
+  },
+  {
+    "time": 1458428138,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 48.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.44571,
+    "altPressure": 101.3287
+  },
+  {
+    "time": 1458428138,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 48.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.49197,
+    "altPressure": 101.3292
+  },
+  {
+    "time": 1458428139,
+    "gpsSpeed": 0.83,
+    "gpsCourse": 53.4375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.49197,
+    "altPressure": 101.3292
+  },
+  {
+    "time": 1458428139,
+    "gpsSpeed": 0.83,
+    "gpsCourse": 53.4375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.49197,
+    "altPressure": 101.3292
+  },
+  {
+    "time": 1458428140,
+    "gpsSpeed": 0.83,
+    "gpsCourse": 58.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.57542,
+    "altPressure": 101.3302
+  },
+  {
+    "time": 1458428140,
+    "gpsSpeed": 0.83,
+    "gpsCourse": 58.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.57542,
+    "altPressure": 101.3302
+  },
+  {
+    "time": 1458428141,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 78.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.57542,
+    "altPressure": 101.3302
+  },
+  {
+    "time": 1458428141,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 78.3984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.82275,
+    "altPressure": 101.3332
+  },
+  {
+    "time": 1458428142,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 112.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.82275,
+    "altPressure": 101.3332
+  },
+  {
+    "time": 1458428142,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 112.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.82275,
+    "altPressure": 101.3332
+  },
+  {
+    "time": 1458428143,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.82275,
+    "altPressure": 101.3332
+  },
+  {
+    "time": 1458428143,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.82275,
+    "altPressure": 101.3332
+  },
+  {
+    "time": 1458428144,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 209.8828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.79158,
+    "altPressure": 101.3328
+  },
+  {
+    "time": 1458428144,
+    "gpsSpeed": 0.71,
+    "gpsCourse": 209.8828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.79158,
+    "altPressure": 101.3328
+  },
+  {
+    "time": 1458428145,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 216.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.79158,
+    "altPressure": 101.3328
+  },
+  {
+    "time": 1458428145,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 216.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.48493,
+    "altPressure": 101.3292
+  },
+  {
+    "time": 1458428146,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 217.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.48493,
+    "altPressure": 101.3292
+  },
+  {
+    "time": 1458428146,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 217.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.41254,
+    "altPressure": 101.3283
+  },
+  {
+    "time": 1458428147,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.41254,
+    "altPressure": 101.3283
+  },
+  {
+    "time": 1458428147,
+    "gpsSpeed": 0.87,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.41254,
+    "altPressure": 101.3283
+  },
+  {
+    "time": 1458428148,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 212.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.3502,
+    "altPressure": 101.3275
+  },
+  {
+    "time": 1458428148,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 212.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.3502,
+    "altPressure": 101.3275
+  },
+  {
+    "time": 1458428149,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.3502,
+    "altPressure": 101.3275
+  },
+  {
+    "time": 1458428149,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.314,
+    "altPressure": 101.3271
+  },
+  {
+    "time": 1458428150,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 205.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.314,
+    "altPressure": 101.3271
+  },
+  {
+    "time": 1458428150,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 205.6640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.314,
+    "altPressure": 101.3271
+  },
+  {
+    "time": 1458428151,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 200.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.25971,
+    "altPressure": 101.3265
+  },
+  {
+    "time": 1458428151,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 200.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.25971,
+    "altPressure": 101.3265
+  },
+  {
+    "time": 1458428152,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.15614,
+    "altPressure": 101.3252
+  },
+  {
+    "time": 1458428152,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.15614,
+    "altPressure": 101.3252
+  },
+  {
+    "time": 1458428153,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.15614,
+    "altPressure": 101.3252
+  },
+  {
+    "time": 1458428153,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.10285,
+    "altPressure": 101.3246
+  },
+  {
+    "time": 1458428154,
+    "gpsSpeed": 1,
+    "gpsCourse": 216.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.10285,
+    "altPressure": 101.3246
+  },
+  {
+    "time": 1458428154,
+    "gpsSpeed": 1,
+    "gpsCourse": 216.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -11.10285,
+    "altPressure": 101.3246
+  },
+  {
+    "time": 1458428155,
+    "gpsSpeed": 1.07,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.92941,
+    "altPressure": 101.3225
+  },
+  {
+    "time": 1458428155,
+    "gpsSpeed": 1.07,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.92941,
+    "altPressure": 101.3225
+  },
+  {
+    "time": 1458428156,
+    "gpsSpeed": 1.07,
+    "gpsCourse": 216.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.673,
+    "altPressure": 101.3194
+  },
+  {
+    "time": 1458428156,
+    "gpsSpeed": 1.07,
+    "gpsCourse": 216.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.673,
+    "altPressure": 101.3194
+  },
+  {
+    "time": 1458428157,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 211.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.673,
+    "altPressure": 101.3194
+  },
+  {
+    "time": 1458428157,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 211.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.60513,
+    "altPressure": 101.3186
+  },
+  {
+    "time": 1458428158,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.60513,
+    "altPressure": 101.3186
+  },
+  {
+    "time": 1458428158,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.60513,
+    "altPressure": 101.3186
+  },
+  {
+    "time": 1458428159,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 205.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.5639,
+    "altPressure": 101.3181
+  },
+  {
+    "time": 1458428159,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 205.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.5639,
+    "altPressure": 101.3181
+  },
+  {
+    "time": 1458428160,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 203.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.5639,
+    "altPressure": 101.3181
+  },
+  {
+    "time": 1458428160,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 203.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.52569,
+    "altPressure": 101.3176
+  },
+  {
+    "time": 1458428161,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 202.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.52569,
+    "altPressure": 101.3176
+  },
+  {
+    "time": 1458428161,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 202.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.52067,
+    "altPressure": 101.3176
+  },
+  {
+    "time": 1458428162,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 202.5,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.52067,
+    "altPressure": 101.3176
+  },
+  {
+    "time": 1458428162,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 202.5,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.52067,
+    "altPressure": 101.3176
+  },
+  {
+    "time": 1458428163,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 207.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.34972,
+    "altPressure": 101.3155
+  },
+  {
+    "time": 1458428163,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 207.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.34972,
+    "altPressure": 101.3155
+  },
+  {
+    "time": 1458428164,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 196.875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.34972,
+    "altPressure": 101.3155
+  },
+  {
+    "time": 1458428164,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 196.875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.31554,
+    "altPressure": 101.3151
+  },
+  {
+    "time": 1458428165,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.31554,
+    "altPressure": 101.3151
+  },
+  {
+    "time": 1458428165,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.11945,
+    "altPressure": 101.3128
+  },
+  {
+    "time": 1458428166,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 180.3515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.11945,
+    "altPressure": 101.3128
+  },
+  {
+    "time": 1458428166,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 180.3515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.11945,
+    "altPressure": 101.3128
+  },
+  {
+    "time": 1458428167,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04102,
+    "altPressure": 101.3118
+  },
+  {
+    "time": 1458428167,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04102,
+    "altPressure": 101.3118
+  },
+  {
+    "time": 1458428168,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -10.04102,
+    "altPressure": 101.3118
+  },
+  {
+    "time": 1458428168,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.947497,
+    "altPressure": 101.3107
+  },
+  {
+    "time": 1458428169,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 198.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.947497,
+    "altPressure": 101.3107
+  },
+  {
+    "time": 1458428169,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 198.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.947497,
+    "altPressure": 101.3107
+  },
+  {
+    "time": 1458428170,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.85448,
+    "altPressure": 101.3096
+  },
+  {
+    "time": 1458428170,
+    "gpsSpeed": 1.24,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.85448,
+    "altPressure": 101.3096
+  },
+  {
+    "time": 1458428171,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 195.8203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.77001,
+    "altPressure": 101.3086
+  },
+  {
+    "time": 1458428171,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 195.8203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.77001,
+    "altPressure": 101.3086
+  },
+  {
+    "time": 1458428172,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 196.875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.77001,
+    "altPressure": 101.3086
+  },
+  {
+    "time": 1458428172,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 196.875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.694589,
+    "altPressure": 101.3076
+  },
+  {
+    "time": 1458428173,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 198.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.694589,
+    "altPressure": 101.3076
+  },
+  {
+    "time": 1458428173,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 198.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.694589,
+    "altPressure": 101.3076
+  },
+  {
+    "time": 1458428174,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 204.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.461787,
+    "altPressure": 101.3049
+  },
+  {
+    "time": 1458428174,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 204.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.461787,
+    "altPressure": 101.3049
+  },
+  {
+    "time": 1458428175,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 204.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.373794,
+    "altPressure": 101.3038
+  },
+  {
+    "time": 1458428175,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 204.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.373794,
+    "altPressure": 101.3038
+  },
+  {
+    "time": 1458428176,
+    "gpsSpeed": 0.89,
+    "gpsCourse": 206.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.373794,
+    "altPressure": 101.3038
+  },
+  {
+    "time": 1458428176,
+    "gpsSpeed": 0.89,
+    "gpsCourse": 206.3671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.357201,
+    "altPressure": 101.3036
+  },
+  {
+    "time": 1458428177,
+    "gpsSpeed": 1.62,
+    "gpsCourse": 221.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.357201,
+    "altPressure": 101.3036
+  },
+  {
+    "time": 1458428177,
+    "gpsSpeed": 1.62,
+    "gpsCourse": 221.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.357201,
+    "altPressure": 101.3036
+  },
+  {
+    "time": 1458428178,
+    "gpsSpeed": 1.14,
+    "gpsCourse": 229.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.355692,
+    "altPressure": 101.3036
+  },
+  {
+    "time": 1458428178,
+    "gpsSpeed": 1.14,
+    "gpsCourse": 229.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.355692,
+    "altPressure": 101.3036
+  },
+  {
+    "time": 1458428179,
+    "gpsSpeed": 1.14,
+    "gpsCourse": 220.078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.230991,
+    "altPressure": 101.3021
+  },
+  {
+    "time": 1458428179,
+    "gpsSpeed": 1.14,
+    "gpsCourse": 220.078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.230991,
+    "altPressure": 101.3021
+  },
+  {
+    "time": 1458428180,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 204.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.230991,
+    "altPressure": 101.3021
+  },
+  {
+    "time": 1458428180,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 204.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.202833,
+    "altPressure": 101.3017
+  },
+  {
+    "time": 1458428181,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 198.6328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.202833,
+    "altPressure": 101.3017
+  },
+  {
+    "time": 1458428181,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 198.6328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.202833,
+    "altPressure": 101.3017
+  },
+  {
+    "time": 1458428182,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 211.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.193782,
+    "altPressure": 101.3016
+  },
+  {
+    "time": 1458428182,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 211.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.193782,
+    "altPressure": 101.3016
+  },
+  {
+    "time": 1458428183,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 207.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.193782,
+    "altPressure": 101.3016
+  },
+  {
+    "time": 1458428183,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 207.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.193782,
+    "altPressure": 101.3016
+  },
+  {
+    "time": 1458428184,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.193782,
+    "altPressure": 101.3016
+  },
+  {
+    "time": 1458428184,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428185,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 198.984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428185,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 198.984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.141487,
+    "altPressure": 101.301
+  },
+  {
+    "time": 1458428186,
+    "gpsSpeed": 1.36,
+    "gpsCourse": 206.015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.088187,
+    "altPressure": 101.3004
+  },
+  {
+    "time": 1458428186,
+    "gpsSpeed": 1.36,
+    "gpsCourse": 206.015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.088187,
+    "altPressure": 101.3004
+  },
+  {
+    "time": 1458428187,
+    "gpsSpeed": 1.36,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -9.088187,
+    "altPressure": 101.3004
+  },
+  {
+    "time": 1458428187,
+    "gpsSpeed": 1.36,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.965998,
+    "altPressure": 101.2989
+  },
+  {
+    "time": 1458428188,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.965998,
+    "altPressure": 101.2989
+  },
+  {
+    "time": 1458428188,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.790002,
+    "altPressure": 101.2968
+  },
+  {
+    "time": 1458428189,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 189.84375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.790002,
+    "altPressure": 101.2968
+  },
+  {
+    "time": 1458428189,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 189.84375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.790002,
+    "altPressure": 101.2968
+  },
+  {
+    "time": 1458428190,
+    "gpsSpeed": 1.78,
+    "gpsCourse": 201.4453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.626574,
+    "altPressure": 101.2948
+  },
+  {
+    "time": 1458428190,
+    "gpsSpeed": 1.78,
+    "gpsCourse": 201.4453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.626574,
+    "altPressure": 101.2948
+  },
+  {
+    "time": 1458428191,
+    "gpsSpeed": 1.78,
+    "gpsCourse": 203.90625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.626574,
+    "altPressure": 101.2948
+  },
+  {
+    "time": 1458428191,
+    "gpsSpeed": 1.78,
+    "gpsCourse": 203.90625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.610483,
+    "altPressure": 101.2946
+  },
+  {
+    "time": 1458428192,
+    "gpsSpeed": 1.22,
+    "gpsCourse": 195.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.610483,
+    "altPressure": 101.2946
+  },
+  {
+    "time": 1458428192,
+    "gpsSpeed": 1.22,
+    "gpsCourse": 195.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.610483,
+    "altPressure": 101.2946
+  },
+  {
+    "time": 1458428193,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.438503,
+    "altPressure": 101.2926
+  },
+  {
+    "time": 1458428193,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.438503,
+    "altPressure": 101.2926
+  },
+  {
+    "time": 1458428194,
+    "gpsSpeed": 0.34,
+    "gpsCourse": 194.765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.354022,
+    "altPressure": 101.2915
+  },
+  {
+    "time": 1458428194,
+    "gpsSpeed": 0.34,
+    "gpsCourse": 194.765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.354022,
+    "altPressure": 101.2915
+  },
+  {
+    "time": 1458428195,
+    "gpsSpeed": 1,
+    "gpsCourse": 200.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.354022,
+    "altPressure": 101.2915
+  },
+  {
+    "time": 1458428195,
+    "gpsSpeed": 1,
+    "gpsCourse": 200.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.251435,
+    "altPressure": 101.2903
+  },
+  {
+    "time": 1458428196,
+    "gpsSpeed": 1,
+    "gpsCourse": 178.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.251435,
+    "altPressure": 101.2903
+  },
+  {
+    "time": 1458428196,
+    "gpsSpeed": 1,
+    "gpsCourse": 178.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.251435,
+    "altPressure": 101.2903
+  },
+  {
+    "time": 1458428197,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 184.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.205673,
+    "altPressure": 101.2898
+  },
+  {
+    "time": 1458428197,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 184.5703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.205673,
+    "altPressure": 101.2898
+  },
+  {
+    "time": 1458428198,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.090012,
+    "altPressure": 101.2884
+  },
+  {
+    "time": 1458428198,
+    "gpsSpeed": 1.45,
+    "gpsCourse": 192.3046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.090012,
+    "altPressure": 101.2884
+  },
+  {
+    "time": 1458428199,
+    "gpsSpeed": 1.67,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.090012,
+    "altPressure": 101.2884
+  },
+  {
+    "time": 1458428199,
+    "gpsSpeed": 1.67,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428200,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 215.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428200,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 215.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428201,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 210.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428201,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 210.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428201,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 210.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -8.06889,
+    "altPressure": 101.2881
+  },
+  {
+    "time": 1458428202,
+    "gpsSpeed": 2.18,
+    "gpsCourse": 207.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.881815,
+    "altPressure": 101.2859
+  },
+  {
+    "time": 1458428203,
+    "gpsSpeed": 1.88,
+    "gpsCourse": 199.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.881815,
+    "altPressure": 101.2859
+  },
+  {
+    "time": 1458428203,
+    "gpsSpeed": 1.88,
+    "gpsCourse": 199.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.840578,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428204,
+    "gpsSpeed": 1.88,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.840578,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428204,
+    "gpsSpeed": 1.88,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.840578,
+    "altPressure": 101.2854
+  },
+  {
+    "time": 1458428204,
+    "gpsSpeed": 1.88,
+    "gpsCourse": 207.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.791797,
+    "altPressure": 101.2848
+  },
+  {
+    "time": 1458428205,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.791797,
+    "altPressure": 101.2848
+  },
+  {
+    "time": 1458428205,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.791797,
+    "altPressure": 101.2848
+  },
+  {
+    "time": 1458428206,
+    "gpsSpeed": 1,
+    "gpsCourse": 221.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.791797,
+    "altPressure": 101.2848
+  },
+  {
+    "time": 1458428206,
+    "gpsSpeed": 1,
+    "gpsCourse": 221.484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.791797,
+    "altPressure": 101.2848
+  },
+  {
+    "time": 1458428207,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428207,
+    "gpsSpeed": 0.91,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428208,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 210.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428208,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 210.9375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428209,
+    "gpsSpeed": 1.12,
+    "gpsCourse": 208.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428209,
+    "gpsSpeed": 1.12,
+    "gpsCourse": 208.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.719882,
+    "altPressure": 101.2839
+  },
+  {
+    "time": 1458428210,
+    "gpsSpeed": 1.12,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.695743,
+    "altPressure": 101.2836
+  },
+  {
+    "time": 1458428210,
+    "gpsSpeed": 1.12,
+    "gpsCourse": 209.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.695743,
+    "altPressure": 101.2836
+  },
+  {
+    "time": 1458428211,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 209.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.560461,
+    "altPressure": 101.282
+  },
+  {
+    "time": 1458428211,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 209.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.560461,
+    "altPressure": 101.282
+  },
+  {
+    "time": 1458428212,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.560461,
+    "altPressure": 101.282
+  },
+  {
+    "time": 1458428212,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.428195,
+    "altPressure": 101.2804
+  },
+  {
+    "time": 1458428213,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 219.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.428195,
+    "altPressure": 101.2804
+  },
+  {
+    "time": 1458428213,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 219.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.428195,
+    "altPressure": 101.2804
+  },
+  {
+    "time": 1458428214,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 218.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.205904,
+    "altPressure": 101.2778
+  },
+  {
+    "time": 1458428214,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 218.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.205904,
+    "altPressure": 101.2778
+  },
+  {
+    "time": 1458428215,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.205904,
+    "altPressure": 101.2778
+  },
+  {
+    "time": 1458428215,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.100289,
+    "altPressure": 101.2765
+  },
+  {
+    "time": 1458428216,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.100289,
+    "altPressure": 101.2765
+  },
+  {
+    "time": 1458428216,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 214.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428217,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 222.5390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428217,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 222.5390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428218,
+    "gpsSpeed": 1,
+    "gpsCourse": 227.109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428218,
+    "gpsSpeed": 1,
+    "gpsCourse": 227.109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428219,
+    "gpsSpeed": 1,
+    "gpsCourse": 228.8671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -7.092745,
+    "altPressure": 101.2764
+  },
+  {
+    "time": 1458428219,
+    "gpsSpeed": 1,
+    "gpsCourse": 228.8671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.886541,
+    "altPressure": 101.2739
+  },
+  {
+    "time": 1458428220,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 223.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.886541,
+    "altPressure": 101.2739
+  },
+  {
+    "time": 1458428220,
+    "gpsSpeed": 1.13,
+    "gpsCourse": 223.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428221,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 214.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428221,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 214.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428222,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428222,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428223,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428223,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428224,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428224,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 175.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.840271,
+    "altPressure": 101.2734
+  },
+  {
+    "time": 1458428225,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 184.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.78897,
+    "altPressure": 101.2728
+  },
+  {
+    "time": 1458428225,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 184.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.78897,
+    "altPressure": 101.2728
+  },
+  {
+    "time": 1458428226,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 191.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.727108,
+    "altPressure": 101.272
+  },
+  {
+    "time": 1458428226,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 191.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.727108,
+    "altPressure": 101.272
+  },
+  {
+    "time": 1458428227,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 193.0078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.727108,
+    "altPressure": 101.272
+  },
+  {
+    "time": 1458428227,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 193.0078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.588293,
+    "altPressure": 101.2703
+  },
+  {
+    "time": 1458428228,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.588293,
+    "altPressure": 101.2703
+  },
+  {
+    "time": 1458428228,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 191.6015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.588293,
+    "altPressure": 101.2703
+  },
+  {
+    "time": 1458428229,
+    "gpsSpeed": 1.25,
+    "gpsCourse": 190.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.455512,
+    "altPressure": 101.2688
+  },
+  {
+    "time": 1458428229,
+    "gpsSpeed": 1.25,
+    "gpsCourse": 190.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.455512,
+    "altPressure": 101.2688
+  },
+  {
+    "time": 1458428230,
+    "gpsSpeed": 1.25,
+    "gpsCourse": 182.4609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.38409,
+    "altPressure": 101.2679
+  },
+  {
+    "time": 1458428230,
+    "gpsSpeed": 1.25,
+    "gpsCourse": 182.4609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.38409,
+    "altPressure": 101.2679
+  },
+  {
+    "time": 1458428231,
+    "gpsSpeed": 0.92,
+    "gpsCourse": 174.7265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.38409,
+    "altPressure": 101.2679
+  },
+  {
+    "time": 1458428231,
+    "gpsSpeed": 0.92,
+    "gpsCourse": 174.7265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.294059,
+    "altPressure": 101.2668
+  },
+  {
+    "time": 1458428232,
+    "gpsSpeed": 0.92,
+    "gpsCourse": 162.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.294059,
+    "altPressure": 101.2668
+  },
+  {
+    "time": 1458428232,
+    "gpsSpeed": 0.92,
+    "gpsCourse": 162.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.294059,
+    "altPressure": 101.2668
+  },
+  {
+    "time": 1458428233,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 159.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.12506,
+    "altPressure": 101.2648
+  },
+  {
+    "time": 1458428233,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 159.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.12506,
+    "altPressure": 101.2648
+  },
+  {
+    "time": 1458428234,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 166.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -6.12506,
+    "altPressure": 101.2648
+  },
+  {
+    "time": 1458428234,
+    "gpsSpeed": 1.26,
+    "gpsCourse": 166.640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.988249,
+    "altPressure": 101.2631
+  },
+  {
+    "time": 1458428235,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 178.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.988249,
+    "altPressure": 101.2631
+  },
+  {
+    "time": 1458428235,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 178.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.8454,
+    "altPressure": 101.2614
+  },
+  {
+    "time": 1458428236,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 199.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.8454,
+    "altPressure": 101.2614
+  },
+  {
+    "time": 1458428236,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 199.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.8454,
+    "altPressure": 101.2614
+  },
+  {
+    "time": 1458428237,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 204.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.743795,
+    "altPressure": 101.2602
+  },
+  {
+    "time": 1458428237,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 204.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.743795,
+    "altPressure": 101.2602
+  },
+  {
+    "time": 1458428238,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 209.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.743795,
+    "altPressure": 101.2602
+  },
+  {
+    "time": 1458428238,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 209.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.566236,
+    "altPressure": 101.2581
+  },
+  {
+    "time": 1458428239,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 207.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.566236,
+    "altPressure": 101.2581
+  },
+  {
+    "time": 1458428239,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 207.421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.497324,
+    "altPressure": 101.2572
+  },
+  {
+    "time": 1458428240,
+    "gpsSpeed": 1.09,
+    "gpsCourse": 197.2265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.497324,
+    "altPressure": 101.2572
+  },
+  {
+    "time": 1458428240,
+    "gpsSpeed": 1.09,
+    "gpsCourse": 197.2265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.497324,
+    "altPressure": 101.2572
+  },
+  {
+    "time": 1458428241,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.477706,
+    "altPressure": 101.257
+  },
+  {
+    "time": 1458428241,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 199.3359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.477706,
+    "altPressure": 101.257
+  },
+  {
+    "time": 1458428242,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 203.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.477706,
+    "altPressure": 101.257
+  },
+  {
+    "time": 1458428242,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 203.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.262416,
+    "altPressure": 101.2544
+  },
+  {
+    "time": 1458428243,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.262416,
+    "altPressure": 101.2544
+  },
+  {
+    "time": 1458428243,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 217.6171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.262416,
+    "altPressure": 101.2544
+  },
+  {
+    "time": 1458428244,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 221.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.258392,
+    "altPressure": 101.2544
+  },
+  {
+    "time": 1458428244,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 221.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.258392,
+    "altPressure": 101.2544
+  },
+  {
+    "time": 1458428245,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 224.6484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.173884,
+    "altPressure": 101.2534
+  },
+  {
+    "time": 1458428245,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 224.6484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.173884,
+    "altPressure": 101.2534
+  },
+  {
+    "time": 1458428246,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 229.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -5.173884,
+    "altPressure": 101.2534
+  },
+  {
+    "time": 1458428246,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 229.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.999836,
+    "altPressure": 101.2513
+  },
+  {
+    "time": 1458428247,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 221.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.999836,
+    "altPressure": 101.2513
+  },
+  {
+    "time": 1458428247,
+    "gpsSpeed": 1.44,
+    "gpsCourse": 221.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.999836,
+    "altPressure": 101.2513
+  },
+  {
+    "time": 1458428248,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 183.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.903757,
+    "altPressure": 101.2501
+  },
+  {
+    "time": 1458428248,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 183.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.903757,
+    "altPressure": 101.2501
+  },
+  {
+    "time": 1458428249,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 133.2421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.690467,
+    "altPressure": 101.2476
+  },
+  {
+    "time": 1458428249,
+    "gpsSpeed": 0.88,
+    "gpsCourse": 133.2421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.690467,
+    "altPressure": 101.2476
+  },
+  {
+    "time": 1458428250,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 129.0234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.690467,
+    "altPressure": 101.2476
+  },
+  {
+    "time": 1458428250,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 129.0234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.624064,
+    "altPressure": 101.2468
+  },
+  {
+    "time": 1458428251,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 127.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.624064,
+    "altPressure": 101.2468
+  },
+  {
+    "time": 1458428251,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 127.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.624064,
+    "altPressure": 101.2468
+  },
+  {
+    "time": 1458428252,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 120.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.610482,
+    "altPressure": 101.2466
+  },
+  {
+    "time": 1458428252,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 120.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.610482,
+    "altPressure": 101.2466
+  },
+  {
+    "time": 1458428253,
+    "gpsSpeed": 0.69,
+    "gpsCourse": 108.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.446486,
+    "altPressure": 101.2446
+  },
+  {
+    "time": 1458428253,
+    "gpsSpeed": 0.69,
+    "gpsCourse": 108.28125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.446486,
+    "altPressure": 101.2446
+  },
+  {
+    "time": 1458428254,
+    "gpsSpeed": 0.69,
+    "gpsCourse": 96.6796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.446486,
+    "altPressure": 101.2446
+  },
+  {
+    "time": 1458428254,
+    "gpsSpeed": 0.69,
+    "gpsCourse": 96.6796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.419824,
+    "altPressure": 101.2443
+  },
+  {
+    "time": 1458428255,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 106.171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.419824,
+    "altPressure": 101.2443
+  },
+  {
+    "time": 1458428255,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 106.171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.419824,
+    "altPressure": 101.2443
+  },
+  {
+    "time": 1458428256,
+    "gpsSpeed": 1.49,
+    "gpsCourse": 92.8125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.325751,
+    "altPressure": 101.2432
+  },
+  {
+    "time": 1458428256,
+    "gpsSpeed": 1.49,
+    "gpsCourse": 92.8125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.325751,
+    "altPressure": 101.2432
+  },
+  {
+    "time": 1458428257,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 90,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.325751,
+    "altPressure": 101.2432
+  },
+  {
+    "time": 1458428257,
+    "gpsSpeed": 1.1,
+    "gpsCourse": 90,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.254315,
+    "altPressure": 101.2423
+  },
+  {
+    "time": 1458428258,
+    "gpsSpeed": 0.76,
+    "gpsCourse": 81.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.254315,
+    "altPressure": 101.2423
+  },
+  {
+    "time": 1458428258,
+    "gpsSpeed": 0.76,
+    "gpsCourse": 81.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.301101,
+    "altPressure": 101.2429
+  },
+  {
+    "time": 1458428259,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 105.8203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.301101,
+    "altPressure": 101.2429
+  },
+  {
+    "time": 1458428259,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 105.8203125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.301101,
+    "altPressure": 101.2429
+  },
+  {
+    "time": 1458428260,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 105.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.214573,
+    "altPressure": 101.2418
+  },
+  {
+    "time": 1458428260,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 105.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.214573,
+    "altPressure": 101.2418
+  },
+  {
+    "time": 1458428261,
+    "gpsSpeed": 0.6,
+    "gpsCourse": 106.171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.214573,
+    "altPressure": 101.2418
+  },
+  {
+    "time": 1458428261,
+    "gpsSpeed": 0.6,
+    "gpsCourse": 106.171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.27645,
+    "altPressure": 101.2426
+  },
+  {
+    "time": 1458428262,
+    "gpsSpeed": 0.52,
+    "gpsCourse": 84.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.27645,
+    "altPressure": 101.2426
+  },
+  {
+    "time": 1458428262,
+    "gpsSpeed": 0.52,
+    "gpsCourse": 84.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.153701,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428263,
+    "gpsSpeed": 0.52,
+    "gpsCourse": 88.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.153701,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428263,
+    "gpsSpeed": 0.52,
+    "gpsCourse": 88.9453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.153701,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428264,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 95.2734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.150682,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428264,
+    "gpsSpeed": 0.77,
+    "gpsCourse": 95.2734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.150682,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428265,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 112.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.150682,
+    "altPressure": 101.2411
+  },
+  {
+    "time": 1458428265,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 112.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428266,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 124.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428266,
+    "gpsSpeed": 1.2,
+    "gpsCourse": 124.1015625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428267,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 130.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.056607,
+    "altPressure": 101.2399
+  },
+  {
+    "time": 1458428267,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 130.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.056607,
+    "altPressure": 101.2399
+  },
+  {
+    "time": 1458428268,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 130.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428268,
+    "gpsSpeed": 1.54,
+    "gpsCourse": 130.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428269,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 122.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.090816,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428269,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 122.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.092326,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428270,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 114.609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.092326,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428270,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 114.609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.092326,
+    "altPressure": 101.2404
+  },
+  {
+    "time": 1458428271,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 123.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.13056,
+    "altPressure": 101.2408
+  },
+  {
+    "time": 1458428271,
+    "gpsSpeed": 0.85,
+    "gpsCourse": 123.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.13056,
+    "altPressure": 101.2408
+  },
+  {
+    "time": 1458428272,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 130.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.163763,
+    "altPressure": 101.2412
+  },
+  {
+    "time": 1458428272,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 130.78125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.163763,
+    "altPressure": 101.2412
+  },
+  {
+    "time": 1458428273,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 125.859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.163763,
+    "altPressure": 101.2412
+  },
+  {
+    "time": 1458428273,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 125.859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428274,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 120.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428274,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 120.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428275,
+    "gpsSpeed": 0.78,
+    "gpsCourse": 114.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428275,
+    "gpsSpeed": 0.78,
+    "gpsCourse": 114.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428276,
+    "gpsSpeed": 0.78,
+    "gpsCourse": 113.90625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.165775,
+    "altPressure": 101.2413
+  },
+  {
+    "time": 1458428276,
+    "gpsSpeed": 0.78,
+    "gpsCourse": 113.90625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.101884,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428277,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 110.7421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.101884,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428277,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 110.7421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.030951,
+    "altPressure": 101.2396
+  },
+  {
+    "time": 1458428278,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 105.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.030951,
+    "altPressure": 101.2396
+  },
+  {
+    "time": 1458428278,
+    "gpsSpeed": 1.01,
+    "gpsCourse": 105.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.030951,
+    "altPressure": 101.2396
+  },
+  {
+    "time": 1458428279,
+    "gpsSpeed": 0.55,
+    "gpsCourse": 86.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.006299,
+    "altPressure": 101.2393
+  },
+  {
+    "time": 1458428279,
+    "gpsSpeed": 0.55,
+    "gpsCourse": 86.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.006299,
+    "altPressure": 101.2393
+  },
+  {
+    "time": 1458428280,
+    "gpsSpeed": 0.55,
+    "gpsCourse": 82.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.006299,
+    "altPressure": 101.2393
+  },
+  {
+    "time": 1458428280,
+    "gpsSpeed": 0.55,
+    "gpsCourse": 82.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.006299,
+    "altPressure": 101.2393
+  },
+  {
+    "time": 1458428281,
+    "gpsSpeed": 0.96,
+    "gpsCourse": 86.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.006299,
+    "altPressure": 101.2393
+  },
+  {
+    "time": 1458428281,
+    "gpsSpeed": 0.96,
+    "gpsCourse": 86.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.937377,
+    "altPressure": 101.2385
+  },
+  {
+    "time": 1458428282,
+    "gpsSpeed": 0.96,
+    "gpsCourse": 96.328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.937377,
+    "altPressure": 101.2385
+  },
+  {
+    "time": 1458428282,
+    "gpsSpeed": 0.96,
+    "gpsCourse": 96.328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.937377,
+    "altPressure": 101.2385
+  },
+  {
+    "time": 1458428283,
+    "gpsSpeed": 0.84,
+    "gpsCourse": 101.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428283,
+    "gpsSpeed": 0.84,
+    "gpsCourse": 101.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428284,
+    "gpsSpeed": 0.54,
+    "gpsCourse": 118.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428284,
+    "gpsSpeed": 0.54,
+    "gpsCourse": 118.4765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428285,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 140.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428285,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 140.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.956494,
+    "altPressure": 101.2387
+  },
+  {
+    "time": 1458428286,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.98517,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428286,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.98517,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428287,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.98517,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428287,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.98517,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428288,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.98517,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428288,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.972593,
+    "altPressure": 101.2389
+  },
+  {
+    "time": 1458428289,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.972593,
+    "altPressure": 101.2389
+  },
+  {
+    "time": 1458428289,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.972593,
+    "altPressure": 101.2389
+  },
+  {
+    "time": 1458428290,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.972593,
+    "altPressure": 101.2389
+  },
+  {
+    "time": 1458428290,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.972593,
+    "altPressure": 101.2389
+  },
+  {
+    "time": 1458428291,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.988189,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428291,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.988189,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428292,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.988189,
+    "altPressure": 101.2391
+  },
+  {
+    "time": 1458428292,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.105406,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428293,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.105406,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428293,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.105406,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428294,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.105406,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428294,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -4.105406,
+    "altPressure": 101.2405
+  },
+  {
+    "time": 1458428295,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.958004,
+    "altPressure": 101.2388
+  },
+  {
+    "time": 1458428295,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.958004,
+    "altPressure": 101.2388
+  },
+  {
+    "time": 1458428296,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.958004,
+    "altPressure": 101.2388
+  },
+  {
+    "time": 1458428296,
+    "gpsSpeed": 0,
+    "gpsCourse": 188.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428297,
+    "gpsSpeed": 0,
+    "gpsCourse": 122.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428297,
+    "gpsSpeed": 0,
+    "gpsCourse": 122.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428298,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 97.734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428298,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 97.734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428299,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 86.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.886063,
+    "altPressure": 101.2379
+  },
+  {
+    "time": 1458428299,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 86.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.868454,
+    "altPressure": 101.2377
+  },
+  {
+    "time": 1458428300,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 83.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.868454,
+    "altPressure": 101.2377
+  },
+  {
+    "time": 1458428300,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 83.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.868454,
+    "altPressure": 101.2377
+  },
+  {
+    "time": 1458428301,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 49.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.868454,
+    "altPressure": 101.2377
+  },
+  {
+    "time": 1458428301,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 49.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.868454,
+    "altPressure": 101.2377
+  },
+  {
+    "time": 1458428301,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 49.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.775383,
+    "altPressure": 101.2366
+  },
+  {
+    "time": 1458428302,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 54.4921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.775383,
+    "altPressure": 101.2366
+  },
+  {
+    "time": 1458428302,
+    "gpsSpeed": 0.36,
+    "gpsCourse": 54.4921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.775383,
+    "altPressure": 101.2366
+  },
+  {
+    "time": 1458428303,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 59.0625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.720546,
+    "altPressure": 101.2359
+  },
+  {
+    "time": 1458428303,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 59.0625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.720546,
+    "altPressure": 101.2359
+  },
+  {
+    "time": 1458428304,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 74.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.664199,
+    "altPressure": 101.2352
+  },
+  {
+    "time": 1458428304,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 74.53125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.664199,
+    "altPressure": 101.2352
+  },
+  {
+    "time": 1458428305,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 96.6796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.664199,
+    "altPressure": 101.2352
+  },
+  {
+    "time": 1458428305,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 96.6796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.593262,
+    "altPressure": 101.2344
+  },
+  {
+    "time": 1458428306,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 109.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.593262,
+    "altPressure": 101.2344
+  },
+  {
+    "time": 1458428306,
+    "gpsSpeed": 0.5,
+    "gpsCourse": 109.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.593262,
+    "altPressure": 101.2344
+  },
+  {
+    "time": 1458428307,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 126.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.465474,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428307,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 126.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.465474,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428308,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 131.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.465474,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428308,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 131.8359375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.465474,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428309,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 126.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.465474,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428309,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 126.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428310,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 125.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428310,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 125.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428311,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 120.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428311,
+    "gpsSpeed": 0.74,
+    "gpsCourse": 120.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428312,
+    "gpsSpeed": 0.62,
+    "gpsCourse": 117.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.502704,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428312,
+    "gpsSpeed": 0.62,
+    "gpsCourse": 117.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428313,
+    "gpsSpeed": 0.62,
+    "gpsCourse": 110.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428313,
+    "gpsSpeed": 0.62,
+    "gpsCourse": 110.0390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428314,
+    "gpsSpeed": 0.18,
+    "gpsCourse": 112.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428314,
+    "gpsSpeed": 0.18,
+    "gpsCourse": 112.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428315,
+    "gpsSpeed": 0.28,
+    "gpsCourse": 334.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428315,
+    "gpsSpeed": 0.28,
+    "gpsCourse": 334.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428316,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 323.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.428244,
+    "altPressure": 101.2324
+  },
+  {
+    "time": 1458428316,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 323.7890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.405101,
+    "altPressure": 101.2321
+  },
+  {
+    "time": 1458428317,
+    "gpsSpeed": 1.11,
+    "gpsCourse": 312.890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.405101,
+    "altPressure": 101.2321
+  },
+  {
+    "time": 1458428317,
+    "gpsSpeed": 1.11,
+    "gpsCourse": 312.890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.405101,
+    "altPressure": 101.2321
+  },
+  {
+    "time": 1458428318,
+    "gpsSpeed": 1.11,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.405101,
+    "altPressure": 101.2321
+  },
+  {
+    "time": 1458428318,
+    "gpsSpeed": 1.11,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.405101,
+    "altPressure": 101.2321
+  },
+  {
+    "time": 1458428319,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 301.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.479057,
+    "altPressure": 101.233
+  },
+  {
+    "time": 1458428319,
+    "gpsSpeed": 1.16,
+    "gpsCourse": 301.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.479057,
+    "altPressure": 101.233
+  },
+  {
+    "time": 1458428320,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.479057,
+    "altPressure": 101.233
+  },
+  {
+    "time": 1458428320,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428321,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428321,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428322,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 285.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.500188,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428322,
+    "gpsSpeed": 1.15,
+    "gpsCourse": 285.1171875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.500188,
+    "altPressure": 101.2333
+  },
+  {
+    "time": 1458428323,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428323,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428324,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 290.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428324,
+    "gpsSpeed": 1.27,
+    "gpsCourse": 290.390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.51679,
+    "altPressure": 101.2335
+  },
+  {
+    "time": 1458428325,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 292.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.51679,
+    "altPressure": 101.2335
+  },
+  {
+    "time": 1458428325,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 292.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.51679,
+    "altPressure": 101.2335
+  },
+  {
+    "time": 1458428326,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 274.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.553517,
+    "altPressure": 101.2339
+  },
+  {
+    "time": 1458428326,
+    "gpsSpeed": 1.28,
+    "gpsCourse": 274.921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.553517,
+    "altPressure": 101.2339
+  },
+  {
+    "time": 1458428327,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 265.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.553517,
+    "altPressure": 101.2339
+  },
+  {
+    "time": 1458428327,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 265.4296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428328,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 261.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428328,
+    "gpsSpeed": 1.23,
+    "gpsCourse": 261.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428329,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 280.8984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428329,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 280.8984375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428330,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 291.796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428330,
+    "gpsSpeed": 1.03,
+    "gpsCourse": 291.796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428331,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 287.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.639547,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428331,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 287.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.622442,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428332,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 277.734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.622442,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428332,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 277.734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428333,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 273.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428333,
+    "gpsSpeed": 1.02,
+    "gpsCourse": 273.1640625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428334,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 278.0859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.673758,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428334,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 278.0859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.673758,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428335,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 281.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.673758,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428335,
+    "gpsSpeed": 1.29,
+    "gpsCourse": 281.25,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.673758,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428336,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 283.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.673758,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428336,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 283.7109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428337,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 287.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428337,
+    "gpsSpeed": 0.94,
+    "gpsCourse": 287.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428338,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 291.796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428338,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 291.796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428339,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.627473,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428339,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 294.2578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.677783,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428340,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 302.6953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.677783,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428340,
+    "gpsSpeed": 1.17,
+    "gpsCourse": 302.6953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.677783,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428341,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 311.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.677783,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428341,
+    "gpsSpeed": 0.86,
+    "gpsCourse": 311.1328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.677783,
+    "altPressure": 101.2354
+  },
+  {
+    "time": 1458428342,
+    "gpsSpeed": 0.76,
+    "gpsCourse": 313.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428342,
+    "gpsSpeed": 0.76,
+    "gpsCourse": 313.59375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428343,
+    "gpsSpeed": 0.29,
+    "gpsCourse": 294.609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428343,
+    "gpsSpeed": 0.29,
+    "gpsCourse": 294.609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428344,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 252.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428344,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 252.0703125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.617411,
+    "altPressure": 101.2347
+  },
+  {
+    "time": 1458428345,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 248.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.606846,
+    "altPressure": 101.2346
+  },
+  {
+    "time": 1458428345,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 248.5546875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.606846,
+    "altPressure": 101.2346
+  },
+  {
+    "time": 1458428346,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 255.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.52484,
+    "altPressure": 101.2336
+  },
+  {
+    "time": 1458428346,
+    "gpsSpeed": 1.04,
+    "gpsCourse": 255.234375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.52484,
+    "altPressure": 101.2336
+  },
+  {
+    "time": 1458428347,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 260.859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.52484,
+    "altPressure": 101.2336
+  },
+  {
+    "time": 1458428347,
+    "gpsSpeed": 1.19,
+    "gpsCourse": 260.859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.509747,
+    "altPressure": 101.2334
+  },
+  {
+    "time": 1458428348,
+    "gpsSpeed": 0.61,
+    "gpsCourse": 259.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.509747,
+    "altPressure": 101.2334
+  },
+  {
+    "time": 1458428348,
+    "gpsSpeed": 0.61,
+    "gpsCourse": 259.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.509747,
+    "altPressure": 101.2334
+  },
+  {
+    "time": 1458428349,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 262.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.472014,
+    "altPressure": 101.2329
+  },
+  {
+    "time": 1458428349,
+    "gpsSpeed": 0.97,
+    "gpsCourse": 262.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.472014,
+    "altPressure": 101.2329
+  },
+  {
+    "time": 1458428350,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 273.8671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.472014,
+    "altPressure": 101.2329
+  },
+  {
+    "time": 1458428350,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 273.8671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.463461,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428351,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 289.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.463461,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428351,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 289.6875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.463461,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428352,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 313.2421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.463461,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428352,
+    "gpsSpeed": 0.93,
+    "gpsCourse": 313.2421875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.463461,
+    "altPressure": 101.2328
+  },
+  {
+    "time": 1458428353,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 324.140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.647597,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428353,
+    "gpsSpeed": 1.3,
+    "gpsCourse": 324.140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.647597,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428354,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 325.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.647597,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428354,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 325.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.647597,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428355,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 314.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.647597,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428355,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 314.296875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428356,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428356,
+    "gpsSpeed": 1.48,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.646088,
+    "altPressure": 101.235
+  },
+  {
+    "time": 1458428357,
+    "gpsSpeed": 0.64,
+    "gpsCourse": 306.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.63351,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428357,
+    "gpsSpeed": 0.64,
+    "gpsCourse": 306.5625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.63351,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428358,
+    "gpsSpeed": 0.95,
+    "gpsCourse": 306.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.63351,
+    "altPressure": 101.2349
+  },
+  {
+    "time": 1458428358,
+    "gpsSpeed": 0.95,
+    "gpsCourse": 306.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.625461,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428359,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 305.5078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.625461,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428359,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 305.5078125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.625461,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428360,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 303.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.625461,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428360,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 303.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.625461,
+    "altPressure": 101.2348
+  },
+  {
+    "time": 1458428361,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 235.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.605337,
+    "altPressure": 101.2345
+  },
+  {
+    "time": 1458428361,
+    "gpsSpeed": 0.7,
+    "gpsCourse": 235.1953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.605337,
+    "altPressure": 101.2345
+  },
+  {
+    "time": 1458428362,
+    "gpsSpeed": 1.74,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.605337,
+    "altPressure": 101.2345
+  },
+  {
+    "time": 1458428362,
+    "gpsSpeed": 1.74,
+    "gpsCourse": 213.046875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.588734,
+    "altPressure": 101.2343
+  },
+  {
+    "time": 1458428363,
+    "gpsSpeed": 1.74,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.588734,
+    "altPressure": 101.2343
+  },
+  {
+    "time": 1458428363,
+    "gpsSpeed": 1.74,
+    "gpsCourse": 202.8515625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.588734,
+    "altPressure": 101.2343
+  },
+  {
+    "time": 1458428364,
+    "gpsSpeed": 0.65,
+    "gpsCourse": 167.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.515281,
+    "altPressure": 101.2334
+  },
+  {
+    "time": 1458428364,
+    "gpsSpeed": 0.65,
+    "gpsCourse": 167.34375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.515281,
+    "altPressure": 101.2334
+  },
+  {
+    "time": 1458428365,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 108.6328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428365,
+    "gpsSpeed": 0.53,
+    "gpsCourse": 108.6328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428366,
+    "gpsSpeed": 0.54,
+    "gpsCourse": 81.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.482579,
+    "altPressure": 101.2331
+  },
+  {
+    "time": 1458428366,
+    "gpsSpeed": 0.54,
+    "gpsCourse": 81.9140625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.441325,
+    "altPressure": 101.2326
+  },
+  {
+    "time": 1458428367,
+    "gpsSpeed": 0.37,
+    "gpsCourse": 73.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.441325,
+    "altPressure": 101.2326
+  },
+  {
+    "time": 1458428367,
+    "gpsSpeed": 0.37,
+    "gpsCourse": 73.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.441325,
+    "altPressure": 101.2326
+  },
+  {
+    "time": 1458428368,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 169.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.37592,
+    "altPressure": 101.2318
+  },
+  {
+    "time": 1458428368,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 169.453125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.37592,
+    "altPressure": 101.2318
+  },
+  {
+    "time": 1458428369,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 205.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.356299,
+    "altPressure": 101.2315
+  },
+  {
+    "time": 1458428369,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 205.3125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.356299,
+    "altPressure": 101.2315
+  },
+  {
+    "time": 1458428370,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 236.953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.356299,
+    "altPressure": 101.2315
+  },
+  {
+    "time": 1458428370,
+    "gpsSpeed": 0.51,
+    "gpsCourse": 236.953125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.263223,
+    "altPressure": 101.2304
+  },
+  {
+    "time": 1458428371,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 264.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.263223,
+    "altPressure": 101.2304
+  },
+  {
+    "time": 1458428371,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 264.375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.263223,
+    "altPressure": 101.2304
+  },
+  {
+    "time": 1458428372,
+    "gpsSpeed": 0.19,
+    "gpsCourse": 300.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.165617,
+    "altPressure": 101.2292
+  },
+  {
+    "time": 1458428372,
+    "gpsSpeed": 0.19,
+    "gpsCourse": 300.5859375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.165617,
+    "altPressure": 101.2292
+  },
+  {
+    "time": 1458428373,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 247.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.165617,
+    "altPressure": 101.2292
+  },
+  {
+    "time": 1458428373,
+    "gpsSpeed": 0.2,
+    "gpsCourse": 247.1484375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.145493,
+    "altPressure": 101.229
+  },
+  {
+    "time": 1458428374,
+    "gpsSpeed": 0.24,
+    "gpsCourse": 208.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.145493,
+    "altPressure": 101.229
+  },
+  {
+    "time": 1458428374,
+    "gpsSpeed": 0.24,
+    "gpsCourse": 208.125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428375,
+    "gpsSpeed": 0.24,
+    "gpsCourse": 197.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428375,
+    "gpsSpeed": 0.24,
+    "gpsCourse": 197.578125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428376,
+    "gpsSpeed": 2.23,
+    "gpsCourse": 96.328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428376,
+    "gpsSpeed": 2.23,
+    "gpsCourse": 96.328125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428377,
+    "gpsSpeed": 2.23,
+    "gpsCourse": 73.828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.103734,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428377,
+    "gpsSpeed": 2.23,
+    "gpsCourse": 73.828125,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.132412,
+    "altPressure": 101.2289
+  },
+  {
+    "time": 1458428378,
+    "gpsSpeed": 1.4,
+    "gpsCourse": 31.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.132412,
+    "altPressure": 101.2289
+  },
+  {
+    "time": 1458428378,
+    "gpsSpeed": 1.4,
+    "gpsCourse": 31.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428379,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 315,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428379,
+    "gpsSpeed": 1.39,
+    "gpsCourse": 315,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428380,
+    "gpsSpeed": 1.67,
+    "gpsCourse": 307.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428380,
+    "gpsSpeed": 1.67,
+    "gpsCourse": 307.265625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428381,
+    "gpsSpeed": 1.85,
+    "gpsCourse": 301.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428381,
+    "gpsSpeed": 1.85,
+    "gpsCourse": 301.2890625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428382,
+    "gpsSpeed": 1.85,
+    "gpsCourse": 299.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428382,
+    "gpsSpeed": 1.85,
+    "gpsCourse": 299.1796875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.252657,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428383,
+    "gpsSpeed": 1.87,
+    "gpsCourse": 297.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.254167,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428383,
+    "gpsSpeed": 1.87,
+    "gpsCourse": 297.7734375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.254167,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428384,
+    "gpsSpeed": 0.15,
+    "gpsCourse": 301.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428384,
+    "gpsSpeed": 0.15,
+    "gpsCourse": 301.9921875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428385,
+    "gpsSpeed": 0,
+    "gpsCourse": 305.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428385,
+    "gpsSpeed": 0,
+    "gpsCourse": 305.15625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428386,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 339.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428386,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 339.9609375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.255173,
+    "altPressure": 101.2303
+  },
+  {
+    "time": 1458428387,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 319.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.151027,
+    "altPressure": 101.2291
+  },
+  {
+    "time": 1458428387,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 319.21875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 25,
+    "alt": -3.151027,
+    "altPressure": 101.2291
+  },
+  {
+    "time": 1458428388,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 308.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.151027,
+    "altPressure": 101.2291
+  },
+  {
+    "time": 1458428388,
+    "gpsSpeed": 0.56,
+    "gpsCourse": 308.671875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.151027,
+    "altPressure": 101.2291
+  },
+  {
+    "time": 1458428389,
+    "gpsSpeed": 0.44,
+    "gpsCourse": 306.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.151027,
+    "altPressure": 101.2291
+  },
+  {
+    "time": 1458428389,
+    "gpsSpeed": 0.44,
+    "gpsCourse": 306.2109375,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.104237,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428390,
+    "gpsSpeed": 0.49,
+    "gpsCourse": 312.5390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.104237,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428390,
+    "gpsSpeed": 0.49,
+    "gpsCourse": 312.5390625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.104237,
+    "altPressure": 101.2285
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.048893,
+    "altPressure": 101.2279
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.048893,
+    "altPressure": 101.2279
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -3.048893,
+    "altPressure": 101.2279
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.669528,
+    "altPressure": 101.2233
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.669528,
+    "altPressure": 101.2233
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.369649,
+    "altPressure": 101.2197
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.369649,
+    "altPressure": 101.2197
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.369649,
+    "altPressure": 101.2197
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.301219,
+    "altPressure": 101.2189
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.301219,
+    "altPressure": 101.2189
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.301219,
+    "altPressure": 101.2189
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.276565,
+    "altPressure": 101.2186
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.276565,
+    "altPressure": 101.2186
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.276565,
+    "altPressure": 101.2186
+  },
+  {
+    "time": 1458428391,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 320.9765625,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 30,
+    "alt": -2.276565,
+    "altPressure": 101.2186
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.276565,
+    "altPressure": 101.2186
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.331912,
+    "altPressure": 101.2192
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428399,
+    "gpsSpeed": 0.45,
+    "gpsCourse": 307.96875,
+    "gpsAccuracyVert": 4,
+    "gpsAccuracyHor": 50,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.337447,
+    "altPressure": 101.2193
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.31078,
+    "altPressure": 101.219
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.31078,
+    "altPressure": 101.219
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.31078,
+    "altPressure": 101.219
+  },
+  {
+    "time": 1458428405,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 73.86078105,
+    "alt": -2.31078,
+    "altPressure": 101.219
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.31078,
+    "altPressure": 101.219
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.321346,
+    "altPressure": 101.2191
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.321346,
+    "altPressure": 101.2191
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.321346,
+    "altPressure": 101.2191
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.39833,
+    "altPressure": 101.22
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.39833,
+    "altPressure": 101.22
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.39833,
+    "altPressure": 101.22
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.39833,
+    "altPressure": 101.22
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -2.39833,
+    "altPressure": 101.22
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -1.965604,
+    "altPressure": 101.2148
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -1.965604,
+    "altPressure": 101.2148
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -1.965604,
+    "altPressure": 101.2148
+  },
+  {
+    "time": 1458428408,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10.3926018,
+    "gpsAccuracyHor": 87.0631953,
+    "alt": -1.809617,
+    "altPressure": 101.213
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.809617,
+    "altPressure": 101.213
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.809617,
+    "altPressure": 101.213
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.645577,
+    "altPressure": 101.211
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.645577,
+    "altPressure": 101.211
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.237478,
+    "altPressure": 101.2061
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.237478,
+    "altPressure": 101.2061
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -1.237478,
+    "altPressure": 101.2061
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.8620739,
+    "altPressure": 101.2016
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.8620739,
+    "altPressure": 101.2016
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.8620739,
+    "altPressure": 101.2016
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.4514275,
+    "altPressure": 101.1967
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.4514275,
+    "altPressure": 101.1967
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.1172628,
+    "altPressure": 101.1927
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.1172628,
+    "altPressure": 101.1927
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": -0.1172628,
+    "altPressure": 101.1927
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 0.2415743,
+    "altPressure": 101.1884
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 0.2415743,
+    "altPressure": 101.1884
+  },
+  {
+    "time": 1458428414,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 0.2415743,
+    "altPressure": 101.1884
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 0.5133524,
+    "altPressure": 101.1851
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 0.5133524,
+    "altPressure": 101.1851
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 0.5133524,
+    "altPressure": 101.1851
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 0.9557619,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 0.9557619,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 1.066493,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 1.066493,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428423,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 176.3541678,
+    "alt": 1.066493,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428427,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.100718,
+    "altPressure": 101.178
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.100718,
+    "altPressure": 101.178
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.100718,
+    "altPressure": 101.178
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.246685,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.246685,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.246685,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.246685,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.246685,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.164138,
+    "altPressure": 101.1773
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.164138,
+    "altPressure": 101.1773
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.164138,
+    "altPressure": 101.1773
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.101726,
+    "altPressure": 101.178
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.101726,
+    "altPressure": 101.178
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.030757,
+    "altPressure": 101.1789
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.030757,
+    "altPressure": 101.1789
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.030757,
+    "altPressure": 101.1789
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.006597,
+    "altPressure": 101.1792
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.006597,
+    "altPressure": 101.1792
+  },
+  {
+    "time": 1458428428,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 65,
+    "alt": 1.006597,
+    "altPressure": 101.1792
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9975376,
+    "altPressure": 101.1793
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9975376,
+    "altPressure": 101.1793
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9975376,
+    "altPressure": 101.1793
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.018677,
+    "altPressure": 101.179
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.018677,
+    "altPressure": 101.179
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.060956,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.060956,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.060956,
+    "altPressure": 101.1785
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.217491,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.217491,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.217491,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.217491,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.217491,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.43443,
+    "altPressure": 101.174
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.43443,
+    "altPressure": 101.174
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.43443,
+    "altPressure": 101.174
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.43443,
+    "altPressure": 101.174
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.43443,
+    "altPressure": 101.174
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.330742,
+    "altPressure": 101.1753
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.286448,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.286448,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.282925,
+    "altPressure": 101.1759
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.282925,
+    "altPressure": 101.1759
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.282925,
+    "altPressure": 101.1759
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.286448,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.286448,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.286448,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.273361,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.273361,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.264805,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.227558,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.204908,
+    "altPressure": 101.1768
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.204908,
+    "altPressure": 101.1768
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.241652,
+    "altPressure": 101.1764
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.313628,
+    "altPressure": 101.1755
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.313628,
+    "altPressure": 101.1755
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.313628,
+    "altPressure": 101.1755
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.313628,
+    "altPressure": 101.1755
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.313628,
+    "altPressure": 101.1755
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.302052,
+    "altPressure": 101.1756
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.302052,
+    "altPressure": 101.1756
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.302052,
+    "altPressure": 101.1756
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.285945,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.285945,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.285945,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.262792,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.262792,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.262792,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.262792,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.262792,
+    "altPressure": 101.1761
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.270844,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.270844,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.270844,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.352386,
+    "altPressure": 101.175
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.352386,
+    "altPressure": 101.175
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.352386,
+    "altPressure": 101.175
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.352386,
+    "altPressure": 101.175
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.352386,
+    "altPressure": 101.175
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.193835,
+    "altPressure": 101.1769
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.257255,
+    "altPressure": 101.1762
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.257255,
+    "altPressure": 101.1762
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.257255,
+    "altPressure": 101.1762
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.257255,
+    "altPressure": 101.1762
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.257255,
+    "altPressure": 101.1762
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.084109,
+    "altPressure": 101.1783
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.084109,
+    "altPressure": 101.1783
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.084109,
+    "altPressure": 101.1783
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.084109,
+    "altPressure": 101.1783
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.084109,
+    "altPressure": 101.1783
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428437,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 228.2291321,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.268329,
+    "altPressure": 101.176
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.227055,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.227055,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.227055,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.227055,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.227055,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.203901,
+    "altPressure": 101.1768
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.203901,
+    "altPressure": 101.1768
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.203901,
+    "altPressure": 101.1768
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.158602,
+    "altPressure": 101.1774
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.158602,
+    "altPressure": 101.1774
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.158602,
+    "altPressure": 101.1774
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.158602,
+    "altPressure": 101.1774
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.158602,
+    "altPressure": 101.1774
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.290978,
+    "altPressure": 101.1758
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.278395,
+    "altPressure": 101.1759
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.278395,
+    "altPressure": 101.1759
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.214974,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.214974,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.214974,
+    "altPressure": 101.1767
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.233598,
+    "altPressure": 101.1765
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.243665,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.243665,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.243665,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.243665,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.243665,
+    "altPressure": 101.1763
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9678411,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9678411,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9678411,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9668341,
+    "altPressure": 101.1797
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8963699,
+    "altPressure": 101.1805
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8963699,
+    "altPressure": 101.1805
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8963699,
+    "altPressure": 101.1805
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7403421,
+    "altPressure": 101.1824
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7403421,
+    "altPressure": 101.1824
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.7604752,
+    "altPressure": 101.1821
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8701973,
+    "altPressure": 101.1808
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8701973,
+    "altPressure": 101.1808
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.8701973,
+    "altPressure": 101.1808
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9733782,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9733782,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9733782,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9733782,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9733782,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9577751,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9577751,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9577751,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9275751,
+    "altPressure": 101.1801
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9275751,
+    "altPressure": 101.1801
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9522381,
+    "altPressure": 101.1798
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9708614,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9673376,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9673376,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9673376,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9673376,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 0.9673376,
+    "altPressure": 101.1796
+  },
+  {
+    "time": 1458428497,
+    "gpsSpeed": -1,
+    "gpsCourse": -1,
+    "gpsAccuracyVert": 10,
+    "gpsAccuracyHor": 1593.746959,
+    "alt": 1.009617,
+    "altPressure": 101.1791
+  }
+]
