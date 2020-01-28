@@ -82,7 +82,7 @@ scipy==0.13.0b1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
-tensorflow==0.6.0
+tensorflow==1.15.2
 terminado==0.5
 tornado==4.3
 traitlets==4.0.0
