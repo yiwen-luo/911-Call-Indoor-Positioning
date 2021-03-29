@@ -35,7 +35,7 @@ pickleshare==0.5
 protobuf==3.0.0a3
 ptyprocess==0.5
 py2app==0.7.3
-Pygments==2.0.2
+Pygments==2.7.4
 pyobjc-core==2.5.1
 pyobjc-framework-Accounts==2.5.1
 pyobjc-framework-AddressBook==2.5.1
