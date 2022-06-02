@@ -28,7 +28,7 @@ bz2file==0.98
 colorama==0.2.5
 configobj==4.7.2
 decorator==3.4.0
-html5lib==0.999
+html5lib==0.99999999
 httpretty==0.8.10
 itsdangerous==0.24
 jsonpatch==1.3
