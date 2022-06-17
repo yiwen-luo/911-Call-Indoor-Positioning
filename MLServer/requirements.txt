@@ -3,7 +3,7 @@ bz2file==0.98
 geopy==1.11.0
 httpretty==0.8.14
 mysql-connector-python-rf==2.2.1
-numpy==1.11.1
+numpy==1.21.0
 requests==2.11.1
 scikit-learn==0.18
 scipy==0.18.1
