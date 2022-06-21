@@ -33,7 +33,7 @@ httpretty==0.8.10
 itsdangerous==0.24
 jsonpatch==1.3
 jsonpointer==1.0
-numpy==1.11.0
+numpy==1.22.0
 oauth==1.0.1
 pbr==1.9.1
 prettytable==0.7.2
