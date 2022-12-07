@@ -4,7 +4,7 @@ backports-abc==0.4
 backports.ssl-match-hostname==3.4.0.2
 bdist-mpkg==0.5.0
 bonjour-py==0.3
-certifi==2015.11.20.1
+certifi==2022.12.7
 Cython==0.23.4
 decorator==4.0.6
 functools32==3.2.3.post2
